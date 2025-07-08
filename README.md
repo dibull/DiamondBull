@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://www.diamond-bull.com/logo.png" alt="Diamond Bull Logo" width="150"/>
+<img src="https://www.google.com/search?q=https://www.diamond-bull.com/logo.png" alt="Diamond Bull Logo" width="150"/>
 </p>
 
 <h1 align="center">Diamond Bull ($DIBULL)</h1>
@@ -97,47 +97,23 @@ Total Supply: 1,000,000,000 (Fixed, non-inflationary)
 🗺️ Project Roadmap (2025-2040)
 This is a long-term vision to build the world's leading protocol for high-value RWA tokenization.
 
-Phase
+Phase I: Foundation (2025–2026)
+Focus: Establish Unshakeable Trust & Deep Liquidity
 
-Years
+Phase II: Expansion (2026–2028)
+Focus: Deliver Real Utility & Achieve Global Market Reach
 
-Strategic Focus
+Phase III: Diversification (2028–2030)
+Focus: Expand into New High-Value Asset Verticals (Gems, Timepieces)
 
-I: Foundation
+Phase IV: Institutional (2030–2033)
+Focus: Bridge DeFi & TradFi with Institutional-Grade Products (RWA ETFs)
 
-2025–2026
+Phase V: Autonomy (2033–2035)
+Focus: Implement AI-Powered Asset & Custody Logic
 
-Establish Unshakeable Trust & Deep Liquidity
-
-II: Expansion
-
-2026–2028
-
-Deliver Real Utility & Achieve Global Market Reach
-
-III: Diversification
-
-2028–2030
-
-Expand into New High-Value Asset Verticals (Gems, Timepieces)
-
-IV: Institutional
-
-2030–2033
-
-Bridge DeFi & TradFi with Institutional-Grade Products (RWA ETFs)
-
-V: Autonomy
-
-2033–2035
-
-Implement AI-Powered Asset & Custody Logic
-
-VI: Global Protocol
-
-2035–2040
-
-Achieve Full-Spectrum Asset Tokenization & Full DAO Governance
+Phase VI: Global Protocol (2035–2040)
+Focus: Achieve Full-Spectrum Asset Tokenization & Full DAO Governance
 
 📚 Technical Documentation
 For a complete and detailed understanding of the project's architecture, legal framework, and long-term vision, please refer to our official documents:
