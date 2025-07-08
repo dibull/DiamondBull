@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.google.com/search?q=https://www.diamond-bull.com/logo.png" alt="Diamond Bull Logo" width="150"/>
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://www.diamond-bull.com/logo.png" alt="Diamond Bull Logo" width="150"/>
 </p>
 
 <h1 align="center">Diamond Bull ($DIBULL)</h1>
@@ -151,7 +151,7 @@ Official Website: https://www.diamond-bull.com/
 🤝 Getting Involved
 Join our community to stay up-to-date with the latest developments, participate in governance discussions, and connect with the team.
 
-X (Twitter): @dia_bull
+X (Twitter): @DiamondBull_com
 
 Telegram: [Link to Official Telegram Channel]
 
