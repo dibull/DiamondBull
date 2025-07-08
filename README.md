@@ -61,11 +61,11 @@ Radical Transparency: The TRON blockchain provides an immutable public ledger, w
 Our framework is built on an unwavering commitment to trust, engineered with military-grade precision.
 
 1. Unquestionable Asset Integrity
-GIA Certified: Every diamond in the portfolio is certified by the Gemological Institute of America (GIA), the world's foremost authority in gemology.
+GIA Certified: An uncompromising standard. Every diamond is certified by the GIA, providing an objective, globally recognized guarantee of quality and authenticity.
 
-Institutional Custody: Physical assets are secured in specialized, geographically diversified vaults managed by industry leaders like Brink's and Malca-Amit.
+Institutional-Grade Custody: Physical assets are secured in specialized, geographically diversified vaults managed by world-leading custodians like Brink's and Malca-Amit, ensuring military-grade security.
 
-Fully Insured: The entire portfolio is insured for its full appraised value by underwriters at Lloyd's of London, protecting against theft, damage, and loss.
+Comprehensively Insured: The entire portfolio is insured for its full appraised value by underwriters at Lloyd's of London, providing a robust financial backstop against theft, damage, and loss.
 
 2. Future-Proofed Technology
 TRON Blockchain: Built on the high-throughput, low-cost TRON network for efficient, scalable, and economical transactions.
