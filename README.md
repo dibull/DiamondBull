@@ -1,118 +1,166 @@
-# 💎 Diamond Bull ($DIBULL)
+<p align="center">
+<img src="https://www.google.com/search?q=https://www.diamond-bull.com/logo.png" alt="Diamond Bull Logo" width="150"/>
+</p>
 
-### The World's First TRC-20 Token Backed by a Certified Diamond Portfolio
-[https://img.shields.io/badge/License-MIT-yellow.svg](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg))]([https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT))
-([https://img.shields.io/badge/Blockchain-TRON-red.svg](https://www.google.com/search?q=https://img.shields.io/badge/Blockchain-TRON-red.svg))]([https://tron.network/](https://tron.network/))
-([https://img.shields.io/badge/Token%20Standard-TRC--20-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/Token%2520Standard-TRC--20-blue.svg))]([https://developers.tron.network/docs/trc20-contract-interaction](https://developers.tron.network/docs/trc20-contract-interaction))
-[](https://www.google.com/search?q=https://www.diamond-bull.com/security)
+<h1 align="center">Diamond Bull ($DIBULL)</h1>
 
-Diamond Bull ($DIBULL) is a revolutionary asset-backed token that bridges the timeless value of physical diamonds with the efficiency and transparency of the TRON blockchain. Each $DIBULL token represents direct fractional ownership of a professionally managed, fully insured portfolio of real, certified diamonds valued at over $600 million USD.
+<p align="center">
+<strong>The Convergence of Timeless Value and Digital Foresight.</strong>
+<br />
+<br />
+<a href="https://www.google.com/search?q=https://github.com/dibull/core-contracts/actions/workflows/ci.yml">
+<img src="https://www.google.com/search?q=https://img.shields.io/github/actions/workflow/status/dibull/core-contracts/ci.yml%3Fbranch%3Dmain%26style%3Dfor-the-badge" alt="Build Status">
+</a>
+<a href="[LINK_TO_AUDIT_REPORTS_FOLDER]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Audits-CertiK_|_Hacken-green?style=for-the-badge" alt="Security Audits">
+</a>
+<a href="https://discord.gg/[YOUR_DISCORD_INVITE]">
+<img src="https://www.google.com/search?q=https://img.shields.io/discord/[YOUR_SERVER_ID]?color=7289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+</a>
+<a href="[suspicious link removed][YOUR_TELEGRAM_CHANNEL]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Telegram-Community-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram" alt="Telegram">
+</a>
+</p>
 
-Our mission is to democratize investment in one of the world's most stable and sought-after luxury assets, making it liquid, accessible, and secure for all. [1, 2, 3]
+📖 Table of Contents
+About Diamond Bull
 
-**Official Website:** [https://www.diamond-bull.com/](https://www.diamond-bull.com/)
+The Investment Thesis
 
------
+The Three Pillars of Trust
 
-### Table of Contents
+The $DIBULL Token
 
--(\#the-vision-democratizing-diamond-investment)
--(\#the-diamond-portfolio-our-foundation-of-value)
--(\#technology--security)
--(\#tokenomics)
+Project Roadmap (2025-2040)
 
-### The Vision: Democratizing Diamond Investment
+Technical Documentation
 
-Historically, direct investment in high-grade diamonds has been reserved for institutional buyers and the ultra-wealthy due to high costs, illiquidity, and opaque markets. [3, 4]
+Getting Involved
 
-Diamond Bull shatters these barriers. By tokenizing our extensive diamond portfolio, we unlock several key benefits: [1, 3]
+Legal Disclaimer
 
-  * **Fractional Ownership:** Invest in a share of a multi-million dollar diamond portfolio with any amount, lowering the barrier to entry. [1]
-  * **Enhanced Liquidity:** Trade your diamond-backed tokens 24/7 on decentralized exchanges, converting a traditionally illiquid asset into a liquid one. [2]
-  * **Unmatched Transparency:** Every diamond in our portfolio is certified, and its corresponding data is immutably recorded on the blockchain for anyone to verify. [3]
-  * **Global Accessibility:** Participate in the global diamond market from anywhere in the world, without the complexities of physical transport, storage, or insurance. [5]
+License
 
-### The Diamond Portfolio: Our Foundation of Value
+💎 About Diamond Bull: Legacy, Liquified
+Diamond Bull is a paradigm shift in wealth preservation. We are engineering a secure, transparent, and liquid bridge between the world's most enduring physical assets and the frontier of digital finance.
 
-The intrinsic value of every $DIBULL token is backed by a robust, real-world asset portfolio.
+The project begins by tokenizing a $600,000,000 USD portfolio of investment-grade, GIA-certified diamonds. The $DIBULL token is a TRC-20 digital asset representing direct, fractional ownership of this meticulously curated and insured portfolio.
 
-  * **Portfolio Value:** Over **$600,000,000 USD** in wholesale-priced, investment-grade diamonds.
-  * **Certification:** Every diamond is independently graded and certified by the **Gemological Institute of America (GIA)**, the world's foremost authority on diamond quality. This ensures an unbiased and objective assessment of each diamond's 4Cs (Carat, Cut, Color, and Clarity). [6, 7, 8, 9]
-  * **Custody & Insurance:** The physical diamonds are stored in high-security, fully insured vaults managed by leading digital asset custody providers. This protects the underlying assets against theft and damage, ensuring the value of your tokens is always secure. [9, 10, 11, 12, 13, 14, 15]
+This repository contains the core smart contracts, technical documentation, and resources for the Diamond Bull protocol.
 
-### Technology & Security
+🔑 The Investment Thesis: Solving the Diamond Paradox
+The traditional diamond market is defined by a paradox: an asset of immense value that is profoundly illiquid, opaque, and inaccessible to most investors. Diamond Bull leverages Real-World Asset (RWA) tokenization to systematically dismantle these barriers.
 
-Our platform is built on a foundation of security, transparency, and cutting-edge technology.
+Democratization through Fractionalization: We divide ownership of our high-value portfolio into one billion fungible $DIBULL tokens, allowing anyone to gain exposure to this elite asset class.
 
-  * **Blockchain:** TRON Network, chosen for its high throughput, low transaction fees, and robust smart contract capabilities.
-  * **Token Standard:** TRC-20, ensuring full compatibility with the TRON ecosystem, including wallets and decentralized exchanges.
-  * **Smart Contract:** Our token contract is publicly verified on TronScan and has undergone rigorous third-party security audits to ensure its integrity and protect against vulnerabilities.
-  * **Transparency:** All portfolio details, GIA certifications, and audit reports are accessible through our official website, providing complete transparency to our token holders. [3]
+24/7 Global Liquidity: By listing $DIBULL on decentralized exchanges (DEXs), we transform a static physical asset into a highly liquid digital one.
 
-### Tokenomics
+Radical Transparency: The TRON blockchain provides an immutable public ledger, which, combined with our GIA certification and public audits, eliminates information asymmetry.
 
-The economic model of $DIBULL is designed for stability, transparency, and direct asset correlation.
+🏛️ The Three Pillars of Trust
+Our framework is built on an unwavering commitment to trust, engineered with military-grade precision.
 
-  * **Token Name:** Diamond Bull
-  * **Symbol:** $DIBULL
-  * **Total Supply:** 1,000,000,000 (1 Billion) $DIBULL
-  * **Asset-Backed Value:** Each $DIBULL token represents a direct, fractional ownership claim on the underlying diamond portfolio. The token supply is fixed, and its value is directly correlated with the appraised value of the vaulted diamond assets.
-  * **Utility & Redemption:** As the ecosystem develops, token holders will have opportunities to redeem $DIBULL for physical diamonds from the portfolio or participate in exclusive wholesale purchasing programs. [1, 5]
+1. Unquestionable Asset Integrity
+GIA Certified: Every diamond in the portfolio is certified by the Gemological Institute of America (GIA), the world's foremost authority in gemology.
 
-### How It Works
+Institutional Custody: Physical assets are secured in specialized, geographically diversified vaults managed by industry leaders like Brink's and Malca-Amit.
 
-1.  **Acquire $DIBULL:** Purchase $DIBULL tokens on a supported decentralized exchange (DEX) like SunSwap.
-2.  **Hold Your Asset:** By holding $DIBULL, you own a verifiable, fractional share of our $600M diamond portfolio.
-3.  **Trade with Confidence:** Trade your tokens freely on the open market, benefiting from the liquidity of a digital asset combined with the stability of a real-world commodity.
-4.  **Stay Informed:** Monitor the portfolio's value and access all certification and audit reports through our official website: [https://www.diamond-bull.com/](https://www.diamond-bull.com/).
+Fully Insured: The entire portfolio is insured for its full appraised value by underwriters at Lloyd's of London, protecting against theft, damage, and loss.
 
-### Roadmap
+2. Future-Proofed Technology
+TRON Blockchain: Built on the high-throughput, low-cost TRON network for efficient, scalable, and economical transactions.
 
-  * **Phase 1: Foundation (Completed)**
+AI-Powered Proof of Reserve (PoR): Our proprietary, AI-augmented PoR system provides continuous, real-time verification that the on-chain token supply is fully backed by the off-chain, vaulted assets.
 
-      * ✅ Formation of legal entity and compliance framework.
-      * ✅ Acquisition and certification of the $600M diamond portfolio.
-      * ✅ Secure vaulting and insurance of all physical assets.
-      * ✅ $DIBULL TRC-20 smart contract development and deployment.
-      * ✅ Successful completion of third-party security audits.
-      * ✅ Launch of the official project website: [https://www.diamond-bull.com/](https://www.diamond-bull.com/).
+Quantum-Resistant Roadmap: We are committed to a proactive crypto-agility strategy, with a planned migration to Post-Quantum Cryptography (PQC) to protect against all future computational threats.
 
-  * **Phase 2: Market Launch & Growth**
+3. Radical Transparency & Security
+Third-Party Audits: Smart contracts have undergone multiple, independent security audits by world-leading firms like CertiK and Hacken.
 
-      * Initial liquidity provision on SunSwap.
-      * Community building and marketing initiatives.
-      * Listing applications for CoinMarketCap and CoinGecko.
-      * Publishing of a real-time portfolio dashboard on the website.
+Public Verification: All audit reports, on-chain attestations from our PoR system, and GIA certificate data are made publicly accessible.
 
-  * **Phase 3: Ecosystem Expansion**
+Bankruptcy-Remote SPV: The physical assets are legally owned by a Special Purpose Vehicle (SPV), isolating them from all corporate liabilities and providing maximum investor protection.
 
-      * Partnerships with luxury brands and jewelry wholesalers.
-      * Development of a token redemption mechanism for physical diamonds.
-      * Integration with additional DeFi protocols for lending and borrowing against $DIBULL.
+🌐 The $DIBULL Token
+Token Name: Diamond Bull
 
-  * **Phase 4: Global Leadership**
+Symbol: $DIBULL
 
-      * Expansion of the diamond portfolio.
-      * Launch of a dedicated marketplace for tokenized luxury assets.
-      * Establishing $DIBULL as the industry standard for tokenized precious gems.
+Blockchain: TRON
 
-### Legal & Compliance
+Standard: TRC-20
 
-Diamond Bull is committed to operating with the highest standards of legal and regulatory compliance. [16, 17]
+Contract Address (Nile): TQqMP8j52ujCwSdMHx9LkVZqU8bS9H2765
 
-  * **Securities Framework:** The $DIBULL token is structured to comply with relevant securities laws and regulations in the jurisdictions in which it is offered. We work with leading legal counsel to ensure our framework aligns with SEC guidelines and other international standards. [17, 18, 19, 20]
-  * **AML/KYC:** All participants are subject to mandatory Anti-Money Laundering (AML) and Know Your Customer (KYC) verification to ensure a secure and compliant ecosystem for all investors. [16, 17, 21]
+Total Supply: 1,000,000,000 (Fixed, non-inflationary)
 
-### Contributing
+🗺️ Project Roadmap (2025-2040)
+This is a long-term vision to build the world's leading protocol for high-value RWA tokenization.
 
-This project is centrally managed to ensure the security and integrity of the underlying assets. However, we welcome community feedback and suggestions for ecosystem development. Please open an issue to discuss your ideas.
+Phase
 
-### License
+Years
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Strategic Focus
 
-### Contact
+I: Foundation
 
-  * **Website:** [https://www.diamond-bull.com/](https://www.diamond-bull.com/)
-  * **GitHub:** [https://github.com/dibull](https://github.com/dibull)
-  * **Support Email:** `support@diamond-bull.com`
+2025–2026
+
+Establish Unshakeable Trust & Deep Liquidity
+
+II: Expansion
+
+2026–2028
+
+Deliver Real Utility & Achieve Global Market Reach
+
+III: Diversification
+
+2028–2030
+
+Expand into New High-Value Asset Verticals (Gems, Timepieces)
+
+IV: Institutional
+
+2030–2033
+
+Bridge DeFi & TradFi with Institutional-Grade Products (RWA ETFs)
+
+V: Autonomy
+
+2033–2035
+
+Implement AI-Powered Asset & Custody Logic
+
+VI: Global Protocol
+
+2035–2040
+
+Achieve Full-Spectrum Asset Tokenization & Full DAO Governance
+
+📚 Technical Documentation
+For a complete and detailed understanding of the project's architecture, legal framework, and long-term vision, please refer to our official documents:
+
+Official White Paper: The comprehensive blueprint for the Diamond Bull ecosystem.
+
+Security Audit Reports: [Link to a folder containing all audit reports]
+
+Official Website: https://www.diamond-bull.com/
+
+🤝 Getting Involved
+Join our community to stay up-to-date with the latest developments, participate in governance discussions, and connect with the team.
+
+X (Twitter): @dia_bull
+
+Telegram: [Link to Official Telegram Channel]
+
+Discord: [Link to Official Discord Server]
+
+Medium: [Link to Official Medium Publication]
+
+⚖️ Legal Disclaimer
+The information provided in this repository is for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. The $DIBULL token involves a high degree of risk and is not suitable for all investors. Please review the full legal disclaimer in our official white paper.
+
+📄 License
+The source code in this repository is licensed under the MIT License.
